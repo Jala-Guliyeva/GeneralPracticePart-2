@@ -86,11 +86,20 @@ namespace GeneralPracticePart_2
                             Console.WriteLine(ex.Message);
                         }
                         break;
+                    case "4":
+                       
+                        foreach (var item in user.FilterStatusByDate(1, DateTime.Now))
+                        {
+                            item.GetStatusInfo();
+                            
+                        }
+                        break;
                     case "0":
                         check = false;
                         break;
+                        
                     default:
-                        Console.WriteLine("Bele emeliyyat yoxdur!");
+                        Console.WriteLine("Not found!");
                         break;
             }
                 } while (check) ;

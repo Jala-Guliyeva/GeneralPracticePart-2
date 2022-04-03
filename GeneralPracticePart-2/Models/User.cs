@@ -51,7 +51,7 @@ namespace GeneralPracticePart_2.Models
         {
             if (id == null)
             {
-                throw new NotFoundException("bu idli status yoxdur!");
+                throw new NullReferenceException(" id null ola bilmez!");
             }
 
             if (statuses.Exists(s => s.Id == id))
@@ -70,7 +70,7 @@ namespace GeneralPracticePart_2.Models
 
             if (id == null || date == null)
             {
-                throw new NotFoundException("Bu idli status yoxdur!");
+                throw new NullReferenceException("Id null ola bilmez!");
             }
 
             if (statuses.Exists(s => s.SharedDate > date) && User._id == id)
