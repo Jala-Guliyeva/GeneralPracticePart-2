@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOSHIBA\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj": {}
+    "C:\\Users\\tu7knjupn\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOSHIBA\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj": {
+    "C:\\Users\\tu7knjupn\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj",
+        "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj",
         "projectName": "GeneralPracticePart-2",
-        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj",
-        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\obj\\",
+        "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\GeneralPracticePart-2.csproj",
+        "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\GeneralPracticePart-2\\GeneralPracticePart-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

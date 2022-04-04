@@ -9,19 +9,11 @@ namespace GeneralPracticePart_2
         static void Main(string[] args)
         {
 
-            //Status status = new Status("test", "test");
-
-            //Status status1 = new Status("test1", "test2");
+           
 
             User user = new User("Status");
 
-            //user.ShareStatus(status);
-            //user.ShareStatus(status1);
-
-            //foreach (Status item in status)
-            //{
-            //    item.GetStatusInfo();
-            //}
+          
             bool check = true;
             do
           {
