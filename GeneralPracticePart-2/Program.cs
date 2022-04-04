@@ -51,19 +51,13 @@ namespace GeneralPracticePart_2
                         break;
                     case "2":
 
-                        try
-                        {
                             foreach (var item in user.GetAllStatuses())
                             {
                                 item.GetStatusInfo();
                                 Console.WriteLine("");
                             }
-                        }
-                        catch (Exception ex)
-                        {
+                        
 
-                            Console.WriteLine(ex.Message);
-                        }
                         break;
                     case "3":
                         try
